@@ -4,7 +4,7 @@ function Middle() {
   return (
     <div className="middle-container">
       <div className="profile">
-        <h1>My Projects</h1>
+        <h1>Please Sign Up</h1>
       </div>
       <div>
         <form className="flex-container" action="onSubmit">
