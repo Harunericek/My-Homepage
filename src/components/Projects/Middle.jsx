@@ -1,6 +1,6 @@
 import React from "react";
 import KeeperAppIMG from "../images/keeperapp.jpg";
-import ExpensesAppIMG from "../images/ExpensesApp.jpg"
+import ExpensesAppIMG from "../images/ExpensesApp.jpg";
 
 function Middle() {
   return (
@@ -10,35 +10,44 @@ function Middle() {
       </div>
       <div className="skills">
         <div className="skill-row">
-          <a href="https://g8x7f4.csb.app/" target="_blank" rel="noopener noreferrer">
-            <img
-              class="skill_img_1"
-              src={KeeperAppIMG}
-              alt="keeperapp"
-            />
+          <a
+            href="https://g8x7f4.csb.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img class="skill_img_1" src={KeeperAppIMG} alt="keeperapp" />
           </a>
-          <a href="https://g8x7f4.csb.app/" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://g8x7f4.csb.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <h3>Keeper App</h3>
           </a>
-          <p style={{fontSize: "14px"}}>
+          <p style={{ fontSize: "14px" }}>
             This was my First "Big" React Project. I had so much fun to build
             it. After this Project i decided to concentrate my self more on
             React Concepts.
           </p>
         </div>
         <div className="skill-row">
-          <a href="https://project-expense.netlify.app/" target="_blank" rel="noopener noreferrer">
-            <img
-              class="skill_img_2"
-              src={ExpensesAppIMG}
-              alt="keeperapp"
-            />
+          <a
+            href="https://project-expense.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img class="skill_img_2" src={ExpensesAppIMG} alt="keeperapp" />
           </a>
-          <a href="https://project-expense.netlify.app/" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://project-expense.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <h3>Expenses App</h3>
           </a>
-          <p style={{fontSize: "14px"}}>
-            This is my second React Project. In this Project i learned how to build Charts.
+          <p style={{ fontSize: "14px" }}>
+            This is my second React Project. In this Project i learned how to
+            build Charts.
           </p>
         </div>
       </div>
