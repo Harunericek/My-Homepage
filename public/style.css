@@ -146,7 +146,7 @@ a {
   .nav-btn {
     margin: 20px;
     text-align: left;
-    background: #11cdd4;
+    background: #9e30e3;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
     background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
     background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
@@ -167,7 +167,7 @@ a {
   }
 
   .nav-btn:hover {
-    background: #30e3cb;
+    background: #7830e3;
     background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
